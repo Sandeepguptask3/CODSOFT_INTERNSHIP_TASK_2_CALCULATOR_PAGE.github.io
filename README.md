@@ -2,7 +2,7 @@
 This repository contains a basic web-based calculator project implemented using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division, providing a convenient tool for quick calculations.
 
 # Features
-User-Friendly Interface: The calculator features a clean and intuitive user interface, resembling a traditional handheld calculator.
+## User-Friendly Interface: ### The calculator features a clean and intuitive user interface, resembling a traditional handheld calculator.
 
 Arithmetic Operations: Users can perform essential arithmetic operations, including addition, subtraction, multiplication, and division, catering to their basic calculation needs.
 
